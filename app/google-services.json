@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580034826641",
+    "project_id": "extended-cable-144811"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580034826641:android:e194b259c3032e09",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580034826641-kli9pm18nr24gkd7tej9d9i5gkgi0rp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "XXXXXX"
+          }
+        },
+        {
+          "client_id": "580034826641-i3o2e8oe8ga16c9vo5lq592t6l900ljk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "XXXXXX"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
